@@ -33,7 +33,5 @@ cd mood-tracker
 
 ## 🔗 Live Demo
 
-👉 Try it here: [mood-tracker.vercel.app](https://mood-tracker.vercel.app)
-
-📦 Backend API: [mood-api.onrender.com](https://mood-api.onrender.com)
+👉 Try it here: (https://mood-tracker-p633ngjlb-ishwaryas-projects-200a70f6.vercel.app/)
 ```
