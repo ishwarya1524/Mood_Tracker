@@ -11,7 +11,7 @@ const Mood = () => {
     const handlesubmit=async(e)=>{
         e.preventDefault();
         const token=localStorage.getItem('token');
-        await axios.post('http://localhost:5000/api/moods',form,{headers:{Authorization:token}});
+        await axios.post('https://mood-tracker-zeei.onrender.com/api/moods',form,{headers:{Authorization:token}});
         alert("Mood saved");
     }
 

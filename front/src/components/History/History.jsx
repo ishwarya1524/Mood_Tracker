@@ -8,7 +8,7 @@ const History = () => {
     const fetchMoods = async () => {
       const token = localStorage.getItem('token');
       try {
-        const res = await axios.get('http://localhost:5000/api/moods', {
+        const res = await axios.get('https://mood-tracker-zeei.onrender.com/api/moods', {
           headers: { Authorization: token }
         });
         setMoods(res.data);
