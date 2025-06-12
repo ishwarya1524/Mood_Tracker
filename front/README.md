@@ -33,5 +33,5 @@ cd mood-tracker
 
 ## 🔗 Live Demo
 
-👉 Try it here: (https://mood-tracker-p633ngjlb-ishwaryas-projects-200a70f6.vercel.app/)
+👉 Try it here: [mood_tracker] (https://mood-tracker-p633ngjlb-ishwaryas-projects-200a70f6.vercel.app/)
 ```
