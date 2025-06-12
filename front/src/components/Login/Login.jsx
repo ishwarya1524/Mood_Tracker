@@ -27,7 +27,7 @@ const Login = () => {
 
   return (
     <div className={`bg-violet-200 h-[92vh] flex flex-col justify-center items-center bg-[url('https://myfiles.123freevectors.com/images/202450-pastel-blue-simple-background.jpg')] bg-cover bg-center`}>
-    <form onSubmit={handleSubmit} className='bg-white h-[45vh] flex flex-col justify-center items-center  shadow-xl gap-6 rounded-lg w-100'>
+    <form onSubmit={handleSubmit} className='bg-white h-[50vh] flex flex-col justify-center items-center  shadow-xl gap-6 rounded-lg w-100'>
     <h1 className='bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-blue-900 text-2xl font-bold'>LOGIN</h1>
       <input
         name='email'
