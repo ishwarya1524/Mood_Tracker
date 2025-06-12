@@ -27,7 +27,7 @@ Built with **React (Vite)**, **Express**, and **MongoDB** just a perfect combo o
 
 ### 1. Clone the project
 
-```bash
+```
 git clone https://github.com/yourusername/mood-tracker.git
 cd mood-tracker
 
