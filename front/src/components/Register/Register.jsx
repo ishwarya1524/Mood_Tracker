@@ -14,7 +14,7 @@ export default function Register() {
 
   return (
     <div className={` h-[91.8vh] flex flex-col justify-center items-center bg-[url('https://myfiles.123freevectors.com/images/202450-pastel-blue-simple-background.jpg')] bg-cover bg-center`}>
-    <form onSubmit={handleSubmit}className='bg-white h-[55vh] flex flex-col justify-center items-center  shadow-xl rounded-lg w-100'>
+    <form onSubmit={handleSubmit}className='bg-white h-[65vh] flex flex-col justify-center items-center  shadow-xl rounded-lg w-100'>
     <h1 className='bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-blue-900 text-2xl font-bold mb-5'>REGISTER</h1>
       <input name="name" placeholder="Name" onChange={handleChange} className='border-1 p-3 w-90 rounded-md'/><br/>
       <input name="email" placeholder="Email" onChange={handleChange} className='border-1 p-3 w-90 rounded-md'/><br/>
