@@ -1,0 +1,15 @@
+# Ignore node_modules from both front and back
+/front/node_modules/
+/back/node_modules/
+
+# Ignore frontend build output (Vite)
+/front/dist/
+
+# Ignore backend build (if using TypeScript or build tools)
+/back/build/
+/back/.env
+
+# General
+.env
+.DS_Store
+Thumbs.db
